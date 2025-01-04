@@ -2,7 +2,7 @@
 
 这一步的目的是建立一个快捷操作，当我们在Mac上右键点击epub文件的时候，在`Quick Actions`下面会出现`Convert EPUB to Markdown`的选项。
 
-![Screenshot 2025-01-04 at 10.30.24](/https://github.com/qixinsame/computer-literacy/blob/main/images/quickaction.png)
+![Screenshot 2025-01-04 at 10.30.24](images/quickaction.png)
 
 **方法1:**
 
